@@ -4,11 +4,6 @@ Animated Normal Sampling
 A tiny Python demo that animates random draws from a Normal(μ, σ) and shows how the histogram converges to the bell curve. Built with NumPy + Matplotlib only.
 
 
-https://github.com/your-org/your-repo
- (replace with your repo)
-
-
-
 ✨ What it does
 
 Streams random samples in batches and updates a histogram in real time
