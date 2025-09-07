@@ -1,11 +1,11 @@
 """
+
 Animated normal sampling demo
 - Streams random draws from N(mu, sigma) and updates a histogram
 - Overlays the theoretical Normal PDF scaled to histogram counts
 - No external dependencies beyond numpy + matplotlib
 
-Run: python this_file.py
-In notebooks: just run the cell; the animation will play inline (with %matplotlib notebook) or in a pop-up.
+Run: python animation.py
 """
 
 import math
